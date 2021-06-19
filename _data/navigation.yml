@@ -11,9 +11,3 @@ header:
       zh-Hans:  网址导航
       zh-Hant:  網址導航
     url:        /dh
-  - titles:
-      en:       Aria2
-      zh:       Aria2
-      zh-Hans:  Aria2
-      zh-Hant:  Aria2
-    url:        /aria2

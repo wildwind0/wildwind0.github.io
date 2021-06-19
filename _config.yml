@@ -37,9 +37,9 @@ author:
   type      : # "person" (default), "organization"
   name      : wildwind
   url       : https://wildwind0.github.io
-  avatar    : https://voxhuang-blog-1253764139.cos.ap-shanghai.myqcloud.com/avatar-VoxHuang.jpg # path or url of avatar image
+  avatar    : # path or url of avatar image
   bio       : I am an amazing person.
-  email     : wildwin_ys@qq.com
+  email     : wildwind_ys@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   instagram : # "user_id"   the last part of your profile url, e.g. https://www.instagram.com/user_id
