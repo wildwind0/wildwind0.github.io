@@ -1,5 +1,4 @@
 ---
-layout: none
 title: VLook_test
 key: 01
 category: Document
