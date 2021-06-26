@@ -31,12 +31,12 @@ header:
       zh-Hant:  網址導航
     url:        /dh
 
-- titles:
-      en: VLook
-      zh: VLook
-      zh-Hans: VLook
-      zh-Hant: VLook
-  url: /VLook
+  - titles:
+        en: VLook
+        zh: VLook
+        zh-Hans: VLook
+        zh-Hant: VLook
+    url: /VLook
 
   - titles:
       # @start locale config
