@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: vlook
 title: VLook_test
 key: 01
 category: Document
