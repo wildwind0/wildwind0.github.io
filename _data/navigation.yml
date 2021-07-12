@@ -32,6 +32,13 @@ header:
     url:        /dh
 
   - titles:
+      en: Navigation
+      zh: 藏宝阁
+      zh-Hans: 藏宝阁
+      zh-Hant: 藏宝阁
+      url: http://wildwind.ys168.com/
+
+  - titles:
       # @start locale config
       en      : &EN       About
       en-GB   : *EN
