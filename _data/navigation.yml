@@ -24,12 +24,12 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:
-      en:       Navigation
-      zh:       网址导航
-      zh-Hans:  网址导航
-      zh-Hant:  網址導航
-    url:        /dh
+#  - titles:
+#      en:       Navigation
+#      zh:       网址导航
+#      zh-Hans:  网址导航
+#      zh-Hant:  網址導航
+#    url:        /dh
 
   - titles:
       en: Navigation
